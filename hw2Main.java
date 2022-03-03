@@ -1,8 +1,5 @@
-package hw2;
-
 import java.util.Arrays;
 import java.util.Scanner;
-
 
 public class hw2Main {
 
@@ -141,7 +138,7 @@ public class hw2Main {
 						
 						if(numb > 0)
 						{
-							System.out.println("Enter the size of the multiplication table (1,2…etc): ");
+							System.out.println("Enter the size of the multiplication table (1,2â€¦etc): ");
 							int size = myScan.nextInt();
 							
 					        for(int i = 1; i <= size; ++i)
@@ -171,7 +168,7 @@ public class hw2Main {
 						
 						if(n > 0)
 						{
-							System.out.print("Enter the size of the multiplication table (1,2…etc): ");
+							System.out.print("Enter the size of the multiplication table (1,2â€¦etc): ");
 							int size = myScan.nextInt();
 							
 					        for(int i = 1; i <= size; ++i)
